@@ -1,7 +1,7 @@
 # Neovim Config 
 
-A minimal yet powerful Neovim setup focused on Python development,\
-with built-in support for many languages, powered by [lazy.nvim](https://github.com/folke/lazy.nvim)\
+A minimal yet powerful Neovim setup focused on Python development, with built-in
+support for many languages, powered by [lazy.nvim](https://github.com/folke/lazy.nvim)
 as a plugin manager.
 
 ------------------------------------------------------------------------------
