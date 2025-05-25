@@ -1,6 +1,9 @@
-# eoVim Config 
+# Neovim Config 
+
 A minimal yet powerful Neovim setup focused on Python development,\
-with built-in support for many languages, powered by [lazy.nvim](https://github.com/folke/lazy.nvim) as plugin manager.
+with built-in support for many languages, powered by [lazy.nvim](https://github.com/folke/lazy.nvim)\
+as a plugin manager.
+
 ------------------------------------------------------------------------------
 ### Features
 #### UI & UX
@@ -32,5 +35,6 @@ with built-in support for many languages, powered by [lazy.nvim](https://github.
     - `stylua` for Lua
     - `prettier` for JS/TS
 
+------------------------------------------------------------------------------
 ### Screenshot
 ![screenshot](./screenshot.png)
